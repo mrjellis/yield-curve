@@ -11,5 +11,5 @@ dash
 requests
 re
 
-Tableau version with other comporable rate: https://public.tableau.com/profile/john7440#!/vizhome/LiveYieldsUSTGSECD/Dashboard1?publish=yes
+Tableau version with other comparable rates: https://public.tableau.com/profile/john7440#!/vizhome/LiveYieldsUSTGSECD/Dashboard1?publish=yes
 
